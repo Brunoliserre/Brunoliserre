@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Bruno Liserre</h1>
 <h3 align="center">Fullstack developer from Buenos Aires, Argentina</h3>
 
