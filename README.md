@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Liserre</h1>
 <h3 align="center">Fullstack developer from Buenos Aires, Argentina</h3>
 
-<h3 align="left">Connect with me:
+<h3 align="left">
 - 🔭 I am looking for my first job as a developer.
 - 🌱 I am a person who is always trying to learn new things.
  </h3> 
