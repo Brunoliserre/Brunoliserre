@@ -5,8 +5,11 @@
 
 <h3 align="left">
 - 🔭 I am looking for my first job as a developer.
-- 🌱 I am a person who is always trying to learn new things.
  </h3> 
+ 
+ <h3 align="left">
+ - 🌱 I am a person who is always trying to learn new things.
+ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
