@@ -11,6 +11,13 @@
 </a>
 </p>
 
+<h3 align="left">Proyects:</h3>
+<p align="left">
+<a href="https://gab.com.ar/" target="blank">
+  GAB - Grupo Argentino de Bioestadística
+</a> - Using next.js, typescript, tailwind.
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
