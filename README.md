@@ -5,7 +5,7 @@
 
 # 🚀 Works:
 <p align="left">
-<a href="https:www.gab.com.ar/" target="_blank">
+<a href="https://www.gab.com.ar/" target="_blank">
 GAB - Grupo Argentino de Bioestadística
 </a> - Using next.js, typescript, tailwind, supabase.
 </p>
